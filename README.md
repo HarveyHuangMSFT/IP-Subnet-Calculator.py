@@ -2,9 +2,9 @@
 
 Subnet Calculator
 
-Get an IP address and subnet mask(Classful and Classless) and from input. You should specify the Host Address Range.
+Get an IPv4 address and subnet mask (classful and classless) from input
 
-Calculates the number of available hosts, host range, and subnet ID (Network Address)
+Calculates the number of available hosts, the host range, and the subnet ID (Network Address)
 
-run .py file using IDLE or CMD
+run .py file using IDLE or terminal
 No need to install any modules
